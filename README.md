@@ -1,8 +1,10 @@
 # Hola 👋
 
-Bienvenido a mi perfil. En él subo una variedad de proyectos en diferentes etapas: desde proyectos en desarrollo hasta prototipos y otras iniciativas. Estos proyectos pueden no estar directamente relacionados con mi cuenta principal en [Lakescorp](https://github.com/lakescorp/lakescorp). Este es un laboratorio creativo donde experimento, aprendo y colaboro en diversas ideas y tecnologías.
+Bienvenido a mi perfil. En él subo una variedad de proyectos en diferentes etapas: desde proyectos en desarrollo hasta prototipos y otras iniciativas. Estos proyectos pueden no estar directamente relacionados con mi cuenta principal [Lakescorp](https://github.com/lakescorp/lakescorp).  
 
-Siéntete libre de explorar los proyectos aquí presentes y de contribuir si encuentras algo que te interese. ¡Tu feedback y contribuciones son siempre bienvenidos! 🚀
+🔬 Este es un laboratorio creativo donde experimento, aprendo y colaboro en diversas ideas y tecnologías.
+
+🔎 Siéntete libre de explorar los proyectos aquí presentes y de contribuir si encuentras algo que te interese. ¡Tu feedback y contribuciones son siempre bienvenidos! 🚀
 
 
 ## 📊 Mis stats
